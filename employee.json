@@ -1,0 +1,42 @@
+[
+  {
+    "username": "thulasi",
+    "password": "thulasi",
+    "department": "admin"
+  },
+  {
+    "username": "vivek",
+    "password": "vivek",
+    "department": "employee"
+  },
+  {
+    "username": "santhosh",
+    "password": "santhosh",
+    "department": "employee"
+  },
+  {
+    "username": "sujatha",
+    "password": "sujatha",
+    "department": "employee"
+  },
+  {
+    "username": "ram",
+    "password": "ram",
+    "department": "employee"
+  },
+  {
+    "username": "sohi",
+    "password": "ram",
+    "department": "employee"
+  },
+  {
+    "username": "sohitha",
+    "password": "ram",
+    "department": "employee"
+  },
+  {
+    "username": "janaki",
+    "password": "ram",
+    "department": "admin"
+  }
+]
